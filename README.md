@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a FrontEnd web developer and am also studying Flutter app development.
 
 <!--
 **mornya/mornya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
